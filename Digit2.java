@@ -1,6 +1,6 @@
-//Accept Number from user and Display its Number Count..
+//Accept Number from user and Display its Digit Summation..
 //Input : 9865.
-//Output: 4.
+//Output: 28
 import java.lang.*;
 import java.util.*;
 
