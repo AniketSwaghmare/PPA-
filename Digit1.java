@@ -1,6 +1,9 @@
-//Accept Number from user and Display its Number Count..
+//Accept Number from user and Display its Number Digit..
 //Input : 9865.
-//Output: 4.
+//Output: 5
+          6
+          8
+          9
 import java.lang.*;
 import java.util.*;
 
